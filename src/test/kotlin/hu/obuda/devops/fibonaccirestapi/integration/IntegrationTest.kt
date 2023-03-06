@@ -44,6 +44,8 @@ class IntegrationTest {
 
         // then
         Assertions.assertNotNull(thrown)
+
+        //Tests done
     }
 
 }
